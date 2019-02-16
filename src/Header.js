@@ -13,7 +13,7 @@ class Header extends Component{
   }
   render(){
     return(
-      <Table responsive striped bordered hover variant="dark">
+      <Table responsive striped bordered hover dark>
       <thead>
         <tr>
           <th>Symbol</th>
